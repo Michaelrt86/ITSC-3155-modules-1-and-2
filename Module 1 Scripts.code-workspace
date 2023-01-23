@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": ".git",
+			"path": "../Intermediate-Python-Exercises/.git"
+		}
+	]
+}
